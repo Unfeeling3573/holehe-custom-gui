@@ -10,5 +10,12 @@ dist/
 # Local investigation data (can contain sensitive info)
 investigations/
 
+# Local test wordlists
+domaine*.txt
+domaine*.rtf
+
+# Editor/backup artifacts
+*.save
+
 # OS files
 .DS_Store
